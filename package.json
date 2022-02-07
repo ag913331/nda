@@ -1,0 +1,22 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "demo node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgievalexandro/nda.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alexandro Georgiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgievalexandro/nda/issues"
+  },
+  "homepage": "https://github.com/georgievalexandro/nda#readme"
+}
