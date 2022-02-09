@@ -1,1 +1,3 @@
-console.log("Hello Node")
+import add from './add';
+
+add();
